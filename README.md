@@ -1,4 +1,6 @@
-# Gluttonous_snake_but_github
+# Gluttonous snake 
+## but github
+
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
